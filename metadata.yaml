@@ -1,0 +1,20 @@
+_repo: Amanda-A-Daughter-of-the-Mennonites_6330
+creator:
+  author:
+    agent_name: Myers, Anna Balmer
+    gutenberg_agent_id: '2001'
+    url: http://www.gutenberg.org/2009/agents/2001
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mennonites -- Fiction'
+- !lcc 'PS'
+title: 'Amanda: A Daughter of the Mennonites'
+url: http://www.gutenberg.org/ebooks/6330
